@@ -10,6 +10,6 @@ LeetCode 문제를 푸는 것으로 프로그래밍 수련을 시작했습니다
 ## 연결 리스트
 
 * [Remove Nth Node From End of List](https://github.com/kyunghoj/my-leetcode-journey/wiki/Remove-Nth-Node-From-End-of-List)
+* [Odd Even Linked List](https://github.com/kyunghoj/my-leetcode-journey/wiki/Odd-Even-Linked-List)
 
-
-마지막 업데이트: 2021년 3월 14일
+마지막 업데이트: 2021년 3월 21일
